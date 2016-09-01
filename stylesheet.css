@@ -1,0 +1,12 @@
+body{
+    background-color: slategrey;
+}
+
+.container{
+    margin:auto;
+    width:500px;
+    height: fit-content;
+    background-color:white;
+    border: 1px solid black;
+    text-align:center;
+}
